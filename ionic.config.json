@@ -1,0 +1,7 @@
+{
+  "name": "ionicPhaser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
